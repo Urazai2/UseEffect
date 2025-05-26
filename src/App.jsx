@@ -5,11 +5,11 @@ import { Ex2 } from '.components/Ex2'
 export function App() {
   return(
     <>
-      <Header />
+      <Header/>
 
       <main>
-        <Ex1 />
-        <Ex2 />
+        <Ex1/>
+        <Ex2/>
       </main>
     </>
   )

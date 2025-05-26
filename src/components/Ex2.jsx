@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react"
 import axios from 'axios'
 
-export function Exemplo2() {
+export function Ex2() {
     const[cep, setCep] = useState("")
     const[logradouro, setLogradouro] = useState("")
     const[bairro, setBairro] = useState("")

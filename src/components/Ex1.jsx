@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-export function Exemplo1() {
+export function Ex1() {
     const [numero, setNumero] = useState(0)
     useEffect(() => {
         alert("Carreegou yaaay")
