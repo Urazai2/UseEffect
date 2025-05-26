@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react'
 export function Exemplo1() {
     const [numero, setNumero] = useState(0)
     useEffect(() => {
-        alert("A página carregou!")
+        alert("Carreegou yaaay")
     }, [numero]) 
 
     return(
